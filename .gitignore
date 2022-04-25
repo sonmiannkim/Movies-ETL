@@ -81,6 +81,12 @@ target/
 profile_default/
 ipython_config.py
 
+#Database Credential
+config.py
+
+#excluded csv file
+Resources/ratings.csv
+
 # pyenv
 .python-version
 
